@@ -9,5 +9,6 @@ public class TasksApplication
 	public static void main( final String[] args )
 	{
 		SpringApplication.run(TasksApplication.class, args);
+		System.out.println( "ola" );
 	}
 }
